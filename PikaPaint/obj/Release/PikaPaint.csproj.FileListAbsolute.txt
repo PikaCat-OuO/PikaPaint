@@ -1,0 +1,11 @@
+D:\VS2019\Project\PikaPaint\PikaPaint\bin\Release\PikaPaint.exe.config
+D:\VS2019\Project\PikaPaint\PikaPaint\bin\Release\PikaPaint.exe
+D:\VS2019\Project\PikaPaint\PikaPaint\bin\Release\PikaPaint.pdb
+D:\VS2019\Project\PikaPaint\PikaPaint\obj\Release\PikaPaint.csproj.AssemblyReference.cache
+D:\VS2019\Project\PikaPaint\PikaPaint\obj\Release\PikaPaint.csproj.SuggestedBindingRedirects.cache
+D:\VS2019\Project\PikaPaint\PikaPaint\obj\Release\PikaPaint.Form1.resources
+D:\VS2019\Project\PikaPaint\PikaPaint\obj\Release\PikaPaint.Properties.Resources.resources
+D:\VS2019\Project\PikaPaint\PikaPaint\obj\Release\PikaPaint.csproj.GenerateResource.cache
+D:\VS2019\Project\PikaPaint\PikaPaint\obj\Release\PikaPaint.csproj.CoreCompileInputs.cache
+D:\VS2019\Project\PikaPaint\PikaPaint\obj\Release\PikaPaint.exe
+D:\VS2019\Project\PikaPaint\PikaPaint\obj\Release\PikaPaint.pdb

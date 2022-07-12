@@ -1,0 +1,11 @@
+D:\VS2019\Project\MiniPaint\MiniPaint\bin\Debug\MiniPaint.exe.config
+D:\VS2019\Project\MiniPaint\MiniPaint\bin\Debug\MiniPaint.exe
+D:\VS2019\Project\MiniPaint\MiniPaint\bin\Debug\MiniPaint.pdb
+D:\VS2019\Project\MiniPaint\MiniPaint\obj\Debug\MiniPaint.csproj.AssemblyReference.cache
+D:\VS2019\Project\MiniPaint\MiniPaint\obj\Debug\MiniPaint.csproj.SuggestedBindingRedirects.cache
+D:\VS2019\Project\MiniPaint\MiniPaint\obj\Debug\MiniPaint.Form1.resources
+D:\VS2019\Project\MiniPaint\MiniPaint\obj\Debug\MiniPaint.Properties.Resources.resources
+D:\VS2019\Project\MiniPaint\MiniPaint\obj\Debug\MiniPaint.csproj.GenerateResource.cache
+D:\VS2019\Project\MiniPaint\MiniPaint\obj\Debug\MiniPaint.csproj.CoreCompileInputs.cache
+D:\VS2019\Project\MiniPaint\MiniPaint\obj\Debug\MiniPaint.exe
+D:\VS2019\Project\MiniPaint\MiniPaint\obj\Debug\MiniPaint.pdb
